@@ -5,7 +5,7 @@ RepoRadar is a full-stack web app that analyzes any public GitHub repository in 
 ## Screenshots
 
 ### Dashboard
-![RepoRadar Dashboard](screenshots/dashboard.png)
+![RepoRadar Dashboard](./screenshots/dashboard.png)
 
 ### Health Score
 ![Health Score](screenshots/health.png)
