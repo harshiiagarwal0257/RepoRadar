@@ -2,6 +2,22 @@
 
 RepoRadar is a full-stack web app that analyzes any public GitHub repository in real time using the GitHub REST API. Enter a repo URL and get a detailed dashboard covering stats, languages, commit activity, contributors, README quality, and an overall health score.
 
+## Screenshots
+
+### Dashboard
+![RepoRadar Dashboard](screenshots/dashboard.png)
+
+### Health Score
+![Health Score](screenshots/health.png)
+
+### Languages & Commit Activity
+![Languages and Activity](screenshots/languages_activity.png)
+
+### README & Contributors
+![README and Contributors](screenshots/readme_conrtributor.png)
+
+---
+
 ## Features
 
 - **Repository overview** — name, description, stars, forks, open issues, watchers, license, topics, and key dates.
